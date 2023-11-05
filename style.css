@@ -1,0 +1,485 @@
+:root{
+    --green: #93e4c1;
+    --blue: #00bbf0;
+}
+.firstImg{
+    width: 100px;
+    position: relative;
+    margin-left: 50%;
+    top: 100px;
+}
+.firstTitre{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    margin-left: 35%;
+    top: 90px;
+    color: black;
+}
+.firstDescription{
+    position: relative;
+    margin-left: 27%;
+    top: 80px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#firstDescription{
+    position: relative;
+    margin-left: 39%;
+    top: 70px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ios{
+    border: none;
+    background-color: var(--green);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    
+    top: 80px;
+}
+.mac{
+    border: none;
+    background-color: var(--blue);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    top: 80px;
+    margin-left: 5%;
+}
+.btnDownload{
+    margin-left: 35%
+}
+.secondTitle{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    margin-left: 37%;
+    top: 110px;
+    color: black;
+}
+.secondDescription{
+    position: relative;
+    margin-left: 27%;
+    top: 100px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#secondDescription{
+    position: relative;
+    margin-left: 28%;
+    top: 90px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Description{
+   position: relative;
+margin-left: 47%;
+top: 80px;
+color: grey;
+font-size: 20px;
+letter-spacing: 1px;
+font-family: Arial, Helvetica, sans-serif; 
+}
+.secondImg{
+    position: relative;
+    top: 100px;
+    margin-left: -150px;
+}
+.oneTitre{
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    margin-left: 50%;
+    bottom: 440px;
+}
+.oneDescription{
+    position: relative;
+    margin-left: 50%;
+    bottom: 440px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#oneDescription{
+    position: relative;
+    margin-left: 50%;
+    bottom: 440px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.twoTitre{
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    margin-left: 50%;
+    bottom: 420px;
+}
+.twoDescription{
+    position: relative;
+    margin-left: 50%;
+    bottom: 420px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#twoDescription{
+    position: relative;
+    left: 50%;
+    bottom: 420px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.threeTitre{
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 50%;
+    bottom: 420px;
+}
+.threeDescription{
+    position: relative;
+    left: 50%;
+    bottom: 420px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#threeDescription{
+    position: relative;
+    left: 50%;
+    bottom: 420px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirdTitle{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 5%;
+    bottom: 150px;
+    color: black;
+}
+.thirdDescription{
+    position: relative;
+    bottom: 150px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25%;
+   
+}
+#thirdDescription{
+    position: relative;
+   margin-left: 39%;
+    bottom: 150px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirdImg{
+    width: 900px;
+    position: relative;
+    left: 18%;
+    bottom: 100px;
+}
+.thirdTitle{
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 33%;
+    bottom: 130px;
+    color: gray;
+}
+.thirdDescription2{
+    position: relative;
+    margin-left: 35%;
+    bottom: 150px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#blacklist{
+    position: relative;
+    left: 20%;
+    bottom: 100px;
+}
+.a{
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 15%;
+    bottom: 100px;
+    color: black;
+}
+#a{
+    position: relative;
+    left: 9%;
+    bottom: 100px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#aa{
+    position: relative;
+    left: 10%;
+    bottom: 100px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#aaa{
+    position: relative;
+    left: 18%;
+    bottom: 100px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#AI{
+    position: relative;
+    left: 50%;
+    bottom: 300px;
+}
+.b{
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 43%;
+    bottom: 300px;
+    color: black;
+}
+#b{
+    position: relative;
+    left: 38%;
+    bottom: 300px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bb{
+    position: relative;
+    left: 44%;
+    bottom: 300px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#preview{
+    position: relative;
+    left: 78%;
+    bottom: 460px;
+}
+.review{
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 74%;
+    bottom: 465px;
+    color: black;
+}
+#c{
+    position: relative;
+    left: 67%;
+    bottom: 467px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cc{
+    position: relative;
+    margin-left: 75%;
+    bottom: 467px;
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.google{
+    position: relative;
+    left: 15%;
+    bottom: 320px;
+}
+.ibm{
+    position: relative;
+    left: 20%;
+    bottom: 320px;
+}
+.microsoft{
+    position: relative;
+    left: 25%;
+    bottom: 330px;
+}
+.hp{
+    position: relative;
+    left: 30%;
+    bottom: 320px;
+}
+.vector{
+    position: relative;
+    left: 35%;
+    bottom: 330px;
+}
+.fourthTitle{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 35%;
+    bottom: 90px;
+    color: black;
+}
+.fourthDescription{
+    position: relative;
+    left: 27%;
+    bottom: 80px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fourthDescription{
+    position: relative;
+    left: 39%;
+    bottom: 70px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ios{
+    border: none;
+    background-color: var(--green);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    left: 35%;
+    bottom: 80px;
+}
+#mac{
+    border: none;
+    background-color: var(--blue);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    left: 37%;
+    bottom: 80px;
+}
+.lastPart{
+    width:100%;
+    background-color: #e3e3e3;
+    position: relative;
+    top: 200px;
+    height: 300px;
+    margin-bottom: 0;
+}
+.last{
+    width: 60px;
+    position: relative;
+    left: 10%;
+    top: 120px;
+}
+.fa{
+    color: gray;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    position: relative;
+    left: 20%;
+    top: 40px;
+}
+.co{
+    color: gray;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    position: relative;
+    left: 20%;
+    top: 50px;
+}
+.prv{
+    color: gray;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    position: relative;
+    left: 35%;
+    bottom: 27px;
+}
+.press{
+    color: gray;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    position: relative;
+    left: 35%;
+    bottom: 20px;
+}
+.install{
+    color: gray;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    position: relative;
+    /* left: 50%; */
+    margin-left: 50%;
+    bottom: 95px;
+}
+.fcb{
+    position: relative;
+    bottom: 120px;
+}
+.twi{
+    position: relative;
+   
+    bottom: 120px;
+}
+.ig{
+    position: relative;
+    bottom: 120px;
+}
+.logoSocial{
+    margin-left: 80%
+}
